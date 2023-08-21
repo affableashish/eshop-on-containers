@@ -396,3 +396,10 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# This is what was originally in this file when Rider created it. Everything above this line was created by github repo for Visual Studio template
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
